@@ -1,0 +1,2 @@
+bash ./scNMT_DNA_QC_trimming_hisat3n_alignment_PE_get_foldername_as_parameter.sh E1G_1
+bash ./scNMT_DNA_QC_trimming_hisat3n_alignment_PE_get_foldername_as_parameter.sh E1G_2
